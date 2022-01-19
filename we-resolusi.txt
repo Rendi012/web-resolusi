@@ -2,3 +2,4 @@ web
 - membuat tampilan desgin
 - membuat perubahan sistem kerja HUMAS
 - membuat toko baju
+- membuat akun youtube
