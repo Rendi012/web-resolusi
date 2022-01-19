@@ -1,0 +1,3 @@
+web
+- membuat tampilan desgin
+- membuat perubahan sistem kerja HUMAS
